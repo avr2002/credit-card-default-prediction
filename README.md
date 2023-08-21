@@ -15,7 +15,7 @@
     
 * **
 
-<h1 align="center"># Real Estate Project Overview</h1>
+<h1 align="center"># Credit Card Default Prediction Project Overview</h1>
 
 ## Business Context
 Banks are primarily known for the money lending business. The more money they lend to people whom they can get good interest with timely repayment, the more revenue is for the banks. This not only save banks money from having bad loans but also improves image in the public figure and among the regulatory bodies.
